@@ -721,16 +721,16 @@ button {
 }
 
 .education-degree {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   color: var(--text-primary) !important;
-
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
+  font-weight: 700;
 }
 
 .education-school {
-  font-size: 0.9rem;
+  font-size: 0.875rem;
   color: var(--accent-light) !important;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.25rem;
 }
 
 .focus-pills {
